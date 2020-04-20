@@ -13,6 +13,7 @@ export default function MyApp({ Component, pageProps }) {
           href="https://fonts.googleapis.com/css?family=Muli:400,700,900&display=swap"
           rel="stylesheet"
         />
+        <link rel="icon" href="/markr_icon.png" />
 
         <meta
           name="description"
